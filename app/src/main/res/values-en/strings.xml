@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Help To Traveler</string>
+    <string name="addTravel">Add Travel</string>
+    <string name="list">List Travel</string>
+    <string name="search">Search</string>
+    <string name="rate">Rate Us</string>
+    <string name="descEvent">Inform the event description:</string>
+    <string name="localEvent">Inform the event location:</string>
+    <string name="dateEvent">Inform the event date:</string>
+    <string name="beginTEvent">Inform the event initial schedule:</string>
+    <string name="finalTEvent">Inform the event final schedule</string>
+    <string name="btnSave">Save</string>
+    <string name="newTravel">New Travel</string>
+    <string name="newEvent">New Event</string>
+    <string name="originTravel">Inform the travel origin:</string>
+    <string name="destinyTravel">Inform the travel destination:</string>
+    <string name="travelType">Inform the travel type:</string>
+    <string name="transportTravel">Inform the transport type:</string>
+    <string name="beginDate">Inform the initial date:</string>
+    <string name="finalDate">Inform the final date:</string>
+    <string name="coinTravel">Inform the country currency:</string>
+    <string name="listTravel">List of travels</string>
+    <string name="hotel">Hotels (Trivago)</string>
+    <string name="ticket">Air Tickets (Decolar.com)</string>
+    <string name="travelDetails">Travel details</string>
+    <string name="addEvent">Add Event</string>
+    <string name="rateUs">Rate us on playstore please!</string>
+    <string name="origin">Origin: </string>
+    <string name="destiny">Destination: </string>
+    <string name="inicialData">Initial Date: </string>
+    <string name="finalData">Final Date: </string>
+    <string name="descricaoEvento">Description:  </string>
+    <string name="localEvento">Local: </string>
+    <string name="dataEvento">Date: </string>
+    <string name="horarioIEvento">Initial schedule: </string>
+    <string name="horarioFEvento">Final schedule: </string>
+</resources>

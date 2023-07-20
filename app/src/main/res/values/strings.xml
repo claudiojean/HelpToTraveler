@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Help To Traveler</string>
+    <string name="addTravel">Adcionar Viagem</string>
+    <string name="list">Listar Viagens</string>
+    <string name="search">Procurar</string>
+    <string name="rate">Avalie</string>
+    <string name="descEvent">Informe a descrição do evento:</string>
+    <string name="localEvent">Informe o local do evento:</string>
+    <string name="dateEvent">Informe a data do evento:</string>
+    <string name="beginTEvent">Informe o horário inicial do evento:</string>
+    <string name="finalTEvent">Informe o horário inicial do evento:</string>
+    <string name="btnSave">Salvar</string>
+    <string name="newTravel">Nova Viagem</string>
+    <string name="newEvent">Novo Evento</string>
+    <string name="originTravel">Informe a origem da viagem:</string>
+    <string name="destinyTravel">Informe o destino da viagem:</string>
+    <string name="travelType">Informe o tipo de viagem:</string>
+    <string name="transportTravel">Informe o tipo de transporte:</string>
+    <string name="beginDate">Informe a data inicial:</string>
+    <string name="finalDate">Informe a data final:</string>
+    <string name="coinTravel">Informe a moeda utilizada no país:</string>
+    <string name="listTravel">Lista de Viagens</string>
+    <string name="hotel">Hotéis (Trivago)</string>
+    <string name="ticket">Passagens aéreas (Decolar.com)</string>
+    <string name="travelDetails">Detalhes da viagem</string>
+    <string name="addEvent">Adcionar Evento</string>
+    <string name="rateUs">Avalie na playstore por favor!</string>
+    <string name="origin">Origem: </string>
+    <string name="destiny">Destino: </string>
+    <string name="inicialData">Data Inicial: </string>
+    <string name="finalData">Data Final: </string>
+    <string name="descricaoEvento">Descrição:  </string>
+    <string name="localEvento">Local: </string>
+    <string name="dataEvento">Data: </string>
+    <string name="horarioIEvento">Horário inicial: </string>
+    <string name="horarioFEvento">Horário Final: </string>
+</resources>
